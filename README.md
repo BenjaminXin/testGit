@@ -14,8 +14,3 @@
 > git log	查看变更日志  
 > git clone SSHkey		克隆repositories到本地  
 > git reset --hard version-number	版本号前六位，回归到指定版本  
-
-
-## the process of github
-
-![process](https://img-blog.csdn.net/20180116083626003?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfNDA5NDIzMjk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
